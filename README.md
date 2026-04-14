@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=150&section=header&text=EvanYao826&fontSize=50&fontAlignY=35&desc=全栈开发者%20|%20AI%20知识库%20|%20在线教育平台&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=150&section=header&text=EvanYao&fontSize=50&fontAlignY=35&desc=全栈开发者%20|%20AI%20知识库%20|%20在线教育平台&descAlignY=55&animation=fadeIn" width="100%" />
 
 ---
 
 <h3 align="center">
-  👋 你好，我是 <strong style="color: #2ecc71;">EvanYao826</strong>
+  👋 你好，我是 <strong style="color: #2ecc71;">EvanYao</strong>
 </h3>
 
 <p align="center">
@@ -67,10 +67,4 @@
 
 ---
 
-## 👀 访客计数
 
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEvanYao826&label=🌱%20来访者&labelColor=%232ecc71&countColor=%233498db" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=100&section=footer" width="100%" />

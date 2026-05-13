@@ -9,7 +9,7 @@
 | 项目 | 简介 |
 | :--- | :--- |
 | 📊 **[china-university-admission](https://github.com/EvanYao826/china-university-admission)** | 一站式查询全国高校历年高考、研究生招生分数线、录取人数及政策文件，支持离线使用，数据打包在 SQLite 中，无需联网。 |
-| 🧠 **[AgentCraft](https://github.com/EvanYao826/Enterprise-AI-Copilot)** | 基于 RAG 架构的全栈 AI 知识库系统。支持多模态文档上传、智能切分、混合检索 + LLM 问答，包含前台和后台管理端。 |
+| 🧠 **[AgentCraft](https://github.com/EvanYao826/Enterprise-AI-Copilot)** | 🚀 多Agent协作智能知识库系统 — 五层可编排Agent架构 + RAG全链路 + 统一ToolRegistry，Spring Boot + FastAPI + React，适合Agent后端开发学习与简历展示 |
 | 📖 **[zhixuehui-platform](https://github.com/EvanYao826/zhixuehui-platform)** | 大型在线学习网站，基于 SpringCloud 技术栈，集成在线教育、社交、电商等服务。为学员推荐课程，为管理员生成周报/月报。 |
 
 ---

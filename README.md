@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 My primary programming language is **Java**, and my long-term interests lie in **backend architecture, AI applications, and Agent systems**. Recently, I designed a five-layer Agent orchestration architecture covering workflow scheduling, tool integration, memory management, context routing, and response streaming, reducing SSE first-byte latency by nearly 90%.

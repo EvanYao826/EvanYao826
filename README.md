@@ -13,6 +13,6 @@
 
 My primary programming language is **Java**, and my long-term interests lie in **backend architecture, AI applications, and Agent systems**. Recently, I designed a five-layer Agent orchestration architecture covering workflow scheduling, tool integration, memory management, context routing, and response streaming, reducing SSE first-byte latency by nearly 90%.
 
-I aspire to become an **AI full-stack engineer and independent developer** who builds practical products with elegant, maintainable code. Beyond engineering, I enjoy contributing to open-source communities and sharing technical insights through writing.
+I'm working toward becoming an **AI full-stack engineer and independent developer** who builds practical products with elegant, maintainable code. Beyond engineering, I enjoy contributing to open-source communities and sharing technical insights through writing.
 
 I am currently a junior majoring in Software Engineering at Liaoning University of Science and Technology. I actively contribute to open-source projects like Dify and LangChain4j, and maintain a technical blog on CSDN with over 100 articles and 100,000+ views. ([CSDN](https://blog.csdn.net/2503_93374004?type=blog))

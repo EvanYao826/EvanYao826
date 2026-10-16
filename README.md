@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Evan
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,go,php,spring,mysql,redis,html,js,ts,vue,react,docker,nginx,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,mysql,redis,js,ts,vue,react,docker,nginx,git&theme=dark" />
 </p>
 
 My primary programming language is **Java**, and my long-term interests lie in **backend engineering, AI applications, and Agent systems**. Through hands-on experience in real-world development, I’ve gained a deeper understanding of software engineering beyond writing code — from business requirements and system design to databases, caching, APIs, deployment, and engineering collaboration. I’m learning to build systems that are not only functional, but also simple, maintainable, and practical.
